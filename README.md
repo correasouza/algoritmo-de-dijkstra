@@ -1,4 +1,4 @@
-# Algoritmo de Dijkstra
+# Observações
 
 * Para maior facilidade com as bibliotecas necessárias, utilizar a ferramenta "Google Colab"!
 * Caso deseje instalar as bibliotecas em sua máquina, siga o tutorial abaixo 👇🏼.
